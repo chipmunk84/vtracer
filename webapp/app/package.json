@@ -16,10 +16,10 @@
   ],
   "dependencies": {
     "vtracer": "file:../pkg",
-    "webpack": "^4.41.5"
+    "webpack": "^5.92.1"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.1"
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
   }
 }
